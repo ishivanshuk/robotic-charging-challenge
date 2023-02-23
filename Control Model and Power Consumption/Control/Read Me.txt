@@ -1,0 +1,2 @@
+For animations with simulations:
+Use mujoco engine (in Linux) (runs faster)
